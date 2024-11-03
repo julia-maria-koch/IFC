@@ -1,2 +1,3 @@
 # IFC
-anything with IFC and BIM 
+workspace for anything related to IFC-format
+ex.: ifcopenshell
